@@ -78,7 +78,7 @@ npm start
 
 ### 💻 Frontend Setup
 ```bash
-cd ../frontend
+cd frontend
 npm install
 npm start
 ```
